@@ -1,0 +1,7 @@
+#Ignoring all files in PCB_Designs directory except for .dru files
+#This is done specifically to autosave files
+/*
+!*.dru
+
+# Ignore Mac DS_Store files in all directories
+.DS_Store
